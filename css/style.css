@@ -293,7 +293,7 @@ aside {
 }
 .intervyu_icon{
     margin-top: -50px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 .box{
     margin-left: 84px;
@@ -305,4 +305,34 @@ aside {
     margin-left: -30px;
     margin-top: -20px;
     box-shadow: 10px 10px 0px 1px rgb(5, 2, 194);
+}
+.HAMAS{
+    margin-top: 60px;
+}
+.isroil{
+    width: 680px;
+    background-color: rgb(233, 233, 233);
+    height: 460px;
+}
+.isroil img{
+    margin-top: -30px;
+    box-shadow: 18px 18px 0px 0px rgba(255, 255, 255, 1);
+}
+.isroil h3{
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.barchasi{
+    width: 680px;
+    float: right;
+    margin-top: -510px;
+    margin-left: 20px;
+}
+.barchasi h3{
+    float: right;
+    width: 480px;
+    margin-top: 20px;
+}
+.barchasi img{
+    margin-top: 20px;
 }
