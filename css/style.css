@@ -1,0 +1,308 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-btn-v2 {
+    height: 60px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background: url(../img/silver-arrow-right.svg) no-repeat 92% center #f0f0f0;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    padding-left: 25px;
+    font-weight: 600;
+    font-size: 14px;
+    color: #000;
+    border-left: 2px solid #2246c5;
+    -webkit-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    -webkit-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+}
+
+a {
+    display: inline-block;
+    cursor: pointer;
+}
+
+a {
+    background: 0 0;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    outline: none;
+}
+
+user agent stylesheet a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    letter-spacing: 0;
+    font-size: 16px;
+    font-family: "Montserrat";
+    font-weight: 300;
+}
+
+html {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    font-size: 62.5%;
+    position: relative;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.container1 {
+    max-width: 1400px;
+    margin: auto;
+}
+
+#navbar {
+    margin-top: 20px;
+}
+
+#navbar ul {
+    margin-left: 120px;
+    margin-top: -25px;
+}
+
+#navbar li {
+    display: inline-block;
+    padding-left: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.right {
+    float: right;
+    margin-top: -25px;
+}
+
+.right select {
+    border-radius: 15px;
+    padding: 5px 10px 5px 5px;
+}
+
+.right button {
+    margin-left: 20px;
+    padding: 8px;
+    border-radius: 50%;
+    border: none;
+}
+
+.main_nav {
+    margin-top: 50px;
+    background-color: rgb(219, 219, 219);
+}
+
+.main_nav li {
+    display: inline-block;
+    padding-left: 5px;
+    font-weight: 100;
+    font-size: 14px;
+}
+
+.main_nav li a {
+    border-left: 1px solid grey;
+    padding-left: 8px;
+}
+
+.main_nav .xududlar {
+    background-color: blue;
+    padding: 7px 15px 7px 0px;
+}
+
+.main_nav .xududlar a {
+    color: white;
+}
+
+.main_section {
+    width: 500px;
+    font-size: 13px;
+    float: right;
+    margin-right: 41px;
+    margin-top: 20px;
+    height: 300px;
+    background-color: rgb(219, 219, 219);
+    padding-left: 10px;
+    padding-top: 15px;
+}
+
+.malumot_1__malumot_span {
+    color: grey;
+    padding-left: 3px;
+}
+
+.four_div_content {
+    width: 290px;
+    float: right;
+    font-size: 13px;
+    height: 100px;
+    border-bottom: 1px solid black;
+}
+
+.four_div_content2 {
+    width: 290px;
+    float: right;
+    font-size: 13px;
+    height: 100px;
+    border-bottom: 1px solid black;
+    margin-left: 7px;
+    margin-right: -10px;
+}
+
+.four_div_malumot {
+    width: 500px;
+    margin-top: 20px;
+}
+
+.four_div_malumot2 {
+    float: right;
+    margin-top: -105px;
+    margin-right: 400px;
+}
+
+.four_div_malumot3 {
+    width: 500px;
+    margin-top: 20px;
+}
+
+.four_div_malumot4 {
+    width: 500px;
+    float: right;
+    margin-right: 387px;
+    margin-top: -100px;
+}
+
+.main_reference3 {
+    margin-top: 30px;
+}
+
+.reference {
+    width: 300px;
+}
+
+.reference2 {
+    width: 300px;
+    margin-left: 344px;
+    margin-top: -280px;
+}
+
+.reference3 {
+    width: 300px;
+    float: right;
+    margin-right: 412px;
+    margin-top: -263px;
+}
+
+aside {
+    float: right;
+    margin-right: 250px;
+    margin-top: 20px;
+    width: 360px;
+    height: 400px;
+}
+
+.aside_div {
+    border-bottom: 1px solid grey;
+}
+
+.aside_div p {
+    margin: 10px;
+}
+
+.aside_i {
+    margin-bottom: 8px;
+}
+.Dolzarb{
+    margin-top: 40px;
+}
+.dayjest{
+    width: 50%;
+}
+.dayjest2{
+    float: right;
+    width: 50%;
+    margin-top: -550px;
+}
+.dayjest_referense2{
+    float: right;
+}
+.dayjest_referense{
+    float: left;
+}
+
+.intervyu{
+    background-color: rgb(238, 238, 238);
+    height: 400px;
+    padding-top: 80px;
+}
+.suhbat{
+    float: left;
+    background-color: white;
+    height: 260px;
+    width: 280px;
+}
+.intervyu_icon{
+    margin-top: -50px;
+    margin-bottom: 30px;
+}
+.box{
+    margin-left: 84px;
+}
+.intervyu_h4{
+    margin: 20px 13px;
+}
+.suhbat img{
+    margin-left: -30px;
+    margin-top: -20px;
+    box-shadow: 10px 10px 0px 1px rgb(5, 2, 194);
+}
