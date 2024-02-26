@@ -294,6 +294,10 @@ aside {
 .intervyu_icon{
     margin-top: -50px;
     margin-bottom: 50px;
+    font-weight: bold;
+}
+.intervyu_span{
+    font-weight: bold;
 }
 .box{
     margin-left: 84px;
