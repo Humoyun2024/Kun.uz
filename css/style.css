@@ -340,3 +340,7 @@ aside {
 .barchasi img{
     margin-top: 20px;
 }
+.box1{
+    width: 33.3%;
+    float: left;
+}
