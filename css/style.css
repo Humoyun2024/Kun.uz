@@ -262,98 +262,198 @@ aside {
 .aside_i {
     margin-bottom: 8px;
 }
-.Dolzarb{
+
+.Dolzarb {
     margin-top: 40px;
 }
-.dayjest{
+
+.dayjest {
     width: 50%;
 }
-.dayjest2{
+
+.dayjest2 {
     float: right;
     width: 50%;
     margin-top: -550px;
 }
-.dayjest_referense2{
+
+.dayjest_referense2 {
     float: right;
 }
-.dayjest_referense{
+
+.dayjest_referense {
     float: left;
 }
 
-.intervyu{
+.intervyu {
     background-color: rgb(238, 238, 238);
     height: 400px;
     padding-top: 80px;
 }
-.suhbat{
+
+.suhbat {
     float: left;
     background-color: white;
     height: 260px;
     width: 280px;
 }
-.intervyu_icon{
+
+.intervyu_icon {
     margin-top: -50px;
     margin-bottom: 50px;
     font-weight: bold;
 }
-.intervyu_span{
+
+.intervyu_span {
     font-weight: bold;
 }
-.box{
+
+.box {
     margin-left: 84px;
 }
-.intervyu_h4{
+
+.intervyu_h4 {
     margin: 20px 13px;
 }
-.suhbat img{
+
+.suhbat img {
     margin-left: -30px;
     margin-top: -20px;
     box-shadow: 10px 10px 0px 1px rgb(5, 2, 194);
 }
-.HAMAS{
+
+.HAMAS {
     margin-top: 60px;
 }
-.isroil{
+
+.isroil {
     width: 680px;
     background-color: rgb(233, 233, 233);
     height: 460px;
 }
-.isroil img{
+
+.isroil img {
     margin-top: -30px;
     box-shadow: 18px 18px 0px 0px rgba(255, 255, 255, 1);
 }
-.isroil h3{
+
+.isroil h3 {
     margin-top: 40px;
     margin-left: 10px;
 }
-.barchasi{
+
+.barchasi {
     width: 680px;
     float: right;
     margin-top: -510px;
     margin-left: 20px;
 }
-.barchasi h3{
+
+.barchasi h3 {
     float: right;
     width: 480px;
     margin-top: 20px;
 }
-.barchasi img{
+
+.barchasi img {
     margin-top: 20px;
 }
-.box1{
+
+.box1 {
     width: 33.3%;
     float: left;
 }
-.biznes_span{
+
+.biznes_span {
     margin-left: 30px;
-} 
+}
+
 .hammasi_ ul {
     width: 100%;
     height: 500px;
     padding-top: 30px;
 }
-.hammasi_ li{
+
+.hammasi_ li {
     display: inline-block;
     width: 19%;
     margin: 0px 5px;
+}
+
+.biznes {
+    background-color: rgb(233, 233, 233);
+    height: 330px;
+}
+
+.biznes a {
+    background-color: white;
+    height: 250px;
+}
+
+.biznes p {
+    text-align: center;
+    margin: 20px 15px;
+    font-weight: bold;
+}
+
+/* Videolar */
+
+.video_div{
+    width: 50%;
+}
+.video1{
+    width: 675px;
+    height: 421.88px;
+}
+
+/* footer */
+
+.footer{
+    background-color: #1c2680;
+    height: 50px;
+    color: white;
+}
+
+.footer li{
+    display: inline-block;
+    padding: 15px 20px;
+}
+
+.footer a{
+    color: white;
+}
+
+.footer ul{
+    margin-left: 250px;
+}
+
+.footer ul i{
+    margin-left: 500px;
+}
+
+.footer2{
+    background-color: #17206a;
+    height: 200px;
+    color: white;
+}
+
+.footer2 p{
+    padding-top: 30px;
+    margin-left: 272px;
+    width: 818px;
+}
+.footer2 li{
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.footer2 i{
+    color: #007bff;
+    font-size: 22px;
+}
+
+.footer2 ul{
+    float: right;
+    margin-top: -70px;
+    margin-right: 465px;
 }
