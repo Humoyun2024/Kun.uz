@@ -400,6 +400,7 @@ aside {
 
 .video_div{
     width: 50%;
+    float: left;    
 }
 .video1{
     width: 675px;
@@ -426,12 +427,39 @@ aside {
     margin-right: 25px;
 }
 
+.foto{
+    float: right;
+}
+
+.foto1{
+    width: 675px;
+    height: 421.88px;
+    background-image: url(../img/img-38.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.foto1 h1{
+    padding-top: 350px;
+    padding-left: 5px;
+    text-shadow: 0px 0px 9px rgba(0,0,0,1);
+    color: white;
+}
+
+.foto3{
+    width: 327.5px;
+    float: right;
+    margin-top: -244px;
+    margin-left: 25px;
+}
+
 /* footer */
 
 .footer{
     background-color: #1c2680;
     height: 50px;
     color: white;
+    margin-top: 800px;
 }
 
 .footer li{
